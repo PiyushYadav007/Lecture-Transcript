@@ -1,7 +1,5 @@
 speechRecognition
 pyaudio
 pyttsx3
-sounddevice
-scipy
 pydub
 ffmpeg
